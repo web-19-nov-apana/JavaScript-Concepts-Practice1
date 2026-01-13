@@ -54,7 +54,7 @@ console.log("Sum is :", num + num2);
 //     console.log("you can vote");
 //     console.log("you can drive");
 
-    
+
 // }
 // console.log("After if statement");
 
@@ -64,7 +64,7 @@ console.log("Sum is :", num + num2);
 // if (color == "red")
 // {
 //     console.log("Stop");
-    
+
 // }
 // if (color == "yellow") {
 //     console.log("Warning");
@@ -81,33 +81,33 @@ console.log("Sum is :", num + num2);
 // if (age >= 18)
 // {
 //     console.log("you can vote");
-    
+
 // }
 // else if (age <= 18)
 // {
 //     console.log("you can not vote");
-    
+
 // }
 
 // let mark = 12;
 // if (mark >=80)
 // {
 //    console.log("A+");
-   
+
 // } else if (mark >= 60)
 // {
 //     console.log("A");
-    
+
 // }
 // else if (mark >= 33)
 // {
 //     console.log("B");
-    
+
 // }
 // else if (mark < 33)
 // {
 //     console.log("fail");
-    
+
 // }
 
 // ~ if else statment
@@ -115,10 +115,10 @@ console.log("Sum is :", num + num2);
 // let age = 13;
 // if (age >= 18) {
 //     console.log("you can vote");
-    
+
 // } else {
 //     console.log("you can not vote");
-    
+
 // }
 
 // ~ Practice question
@@ -128,19 +128,19 @@ console.log("Sum is :", num + num2);
 // if (size == "XL")
 // {
 //     console.log("Price is Rs. 250");
-    
+
 // } else if (size == "L")
 // {
 //     console.log("Price is Rs. 200");
-    
+
 // }
 // else if (size == "M")
 // {
 //     console.log("Price is Rs. 100");
-    
+
 // } else {
 //     console.log("Price is Rs. 50");
-    
+
 // }
 
 // ~Pratcice question question 1
@@ -150,20 +150,20 @@ console.log("Sum is :", num + num2);
 // if ((str[0] === 'a') && (str.length > 3))
 // {
 //     console.log("Good string");
-    
+
 // } else {
 //     console.log("Not good string");
-    
+
 // }
 
 // ~Truthy and falsey value,falsey value=0,-0,empty string,null,undefined,NaN,On(Bigint). and Truthy value=1,[],{}
 
 // if (1) {
 //     console.log("hii");
-    
+
 // } else {
 //     console.log("bad");
-    
+
 // }
 
 // ~ Switch case statement
@@ -182,11 +182,11 @@ console.log("Sum is :", num + num2);
 //         break;
 //     default:
 //         console.log("trafice has broken");
-        
-        
+
+
 // }
 
-// ~ Practice question
+// ~ Practice question.
 
 // let day = 6;
 
